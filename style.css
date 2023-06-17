@@ -1,0 +1,77 @@
+*{
+    font-family: "Manrope", sans-serif;
+    font-weight: 800;
+}
+
+body{
+    background-color: hsl(218, 23%, 16%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
+
+
+main{
+    max-width: 550px;
+    width: fit-content;
+    height: fit-content;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    background-color:  hsl(217, 19%, 24%);
+    margin-top: 15vh;
+}
+
+.adv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.adv-id{
+    color: hsl(150, 100%, 66%);
+}
+
+.adv-text{
+   color:  hsl(193, 38%, 86%);
+   margin: 20px auto 0; 
+   text-align: center;
+}
+
+.divisor{
+    margin: 20px 0 30px;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto -50px;
+    border: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    background-color: hsl(150, 100%, 66%);
+}
+
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 40px hsl(150, 100%, 66%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 10px;
+    color:  hsl(193, 38%, 86%);
+}
+  
+.attribution a {
+    color: hsl(0deg, 0%, 50%);
+    text-decoration: none;
+}
