@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice gerator app
 
-Essa é a minha solução para o [Adivice Gerator App do Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
+Essa é a minha solução para o [Adivice Generator App do Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
 
 ![](./images/desktop-design.jpg)
 
